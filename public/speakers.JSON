@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Solaiman Sukhion",
+        "key": 1,
+        "age": 45,
+        "country": "Bangladesh",
+        "job": "Businessman and Speaker",
+        "salary": 100000,
+        "fig": "https://smallbiography.com/wp-content/uploads/2021/06/Solaiman-Shukhon-HD-photo.jpg"
+    },
+    {
+        "name": "Ayman Sadik",
+        "key": 2,
+        "age": 32,
+        "country": "Bangladesh",
+        "job": "Founder of 10 Min School",
+        "salary": 80000,
+        "fig": "https://networthidea.com/wp-content/uploads/2020/07/6-4005229455087070627-o-1594042640361.jpg"
+    },
+    {
+        "name": "Khalid Farhan",
+        "key": 3,
+        "age": 36,
+        "country": "Bangladesh",
+        "job": "Expert in Management & Marketing",
+        "salary": 120000,
+        "fig": "https://yt3.ggpht.com/ytc/AAUvwngHbWHvzIoamojYcYBGf1Syly1ryY4JooB1k8A_hA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Jhankar Mahbub",
+        "key": 4,
+        "age": 40,
+        "country": "Bangladesh",
+        "job": "Programmer",
+        "salary": 120000,
+        "fig": "https://yt3.ggpht.com/ytc/AKedOLTBLMf4tq8iRjYjbmOPzLlQbD31_D2E4AOSmFPGzw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Sushanta Paul",
+        "key": 5,
+        "age": 38,
+        "country": "Bangladesh",
+        "job": "Tax Commisioner",
+        "salary": 40000,
+        "fig": "https://yt3.ggpht.com/ytc/AKedOLQujwBBy7DfWwe7XF0MnUzcgvrg1XAIEVyX7HDF=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "name": "Muhammad Zafar Iqbal",
+        "key": 6,
+        "age": 50,
+        "country": "Bangladesh",
+        "job": "Professor",
+        "salary": 100000,
+        "fig": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Book_Fair_2015_Dhaka_%2816519100026%29.jpg"
+    },
+    {
+        "name": "Arifin Shuvo",
+        "key": 7,
+        "age": 40,
+        "country": "Bangladesh",
+        "job": "Actor",
+        "salary": 110000,
+        "fig": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Y8x3uLKaN4G8AWPmOe6IEBpVy9CkYWv6cg&usqp=CAU"
+    },
+    {
+        "name": "Iliyas Kanchon",
+        "key": 8,
+        "age": 60,
+        "country": "Bangladesh",
+        "job": "Actor",
+        "salary": 120000,
+        "fig": "https://m.media-amazon.com/images/M/MV5BNjYwZDkxZWEtMTBmMS00ZDk4LWJhYzItMzJlY2Q4NjFjNGJlXkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg"
+    },
+    {
+        "name": "James",
+        "key": 9,
+        "age": 60,
+        "country": "Bangladesh",
+        "job": "Singer",
+        "salary": 200000,
+        "fig": "https://media-eng.dhakatribune.com/uploads/2020/10/james-1601659664318.jpg"
+    },
+    {
+        "name": "Anisul Haque",
+        "key": 10,
+        "age": 60,
+        "country": "Bangladesh",
+        "job": "Writer",
+        "salary": 100000,
+        "fig": "https://m.media-amazon.com/images/M/MV5BMzJmOTA5YjAtYWEzMS00MmVlLWEzN2YtODYyM2ZhZmQwM2RkXkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg"
+    },
+    {
+        "name": "Mohammad Younus",
+        "key": 11,
+        "age": 65,
+        "country": "Bangladesh",
+        "job": "Entrepreneur",
+        "salary": 110000,
+        "fig": "https://cdn.britannica.com/65/188765-050-7192754B/Muhammad-Yunus-2006.jpg"
+    }
+]

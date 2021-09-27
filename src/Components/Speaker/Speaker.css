@@ -1,0 +1,28 @@
+.image{
+    width:150px;
+    height: 100px;
+    align-items: center;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.speaker{
+    border: 1px solid gray;
+    margin:10px;
+    text-align: center;
+    background-color: lemonchiffon;
+}
+
+.speaker:hover{
+    background-color:lightsalmon;
+}
+
+.button{
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:lightskyblue;
+}
+.button:hover{
+    background-color: lightseagreen;
+}
